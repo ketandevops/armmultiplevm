@@ -23,4 +23,4 @@ steps:
     csmFileLink: 'https://raw.githubusercontent.com/ketandevops/armmultiplevm/master/azuredeploy.json'
     overrideParameters: '-projectName multivm070522'
     deploymentMode: 'Incremental'
-    deploymentName: 'ketan multiple vm deployment using arm'
+    deploymentName: 'ketanmultiplevmarm'
